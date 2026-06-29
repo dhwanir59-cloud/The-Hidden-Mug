@@ -1,0 +1,6 @@
+{
+  "name": "The Hidden Mug",
+  "description": "An immersive, aesthetic café website featuring signature menus, interactive spaces, creator's corners, secret member passcodes, and an editorial-inspired design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
